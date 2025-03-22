@@ -1,0 +1,1 @@
+This is the code of CloudEdit using Claudinary AI at Techxelerate Hackathon 2025
