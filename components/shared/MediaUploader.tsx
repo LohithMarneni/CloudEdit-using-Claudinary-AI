@@ -53,7 +53,7 @@ const MediaUploader = ({
 
   return (
     <CldUploadWidget
-      uploadPreset="Hackathon_imaginify"
+      uploadPreset="cloudedit-using-claudinary-ai"
       options={{
         multiple: false,
         resourceType: "image",
