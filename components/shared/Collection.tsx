@@ -46,6 +46,9 @@ export const Collection = ({
     router.push(newUrl, { scroll: false });
   };
 
+  
+
+
   return (
     <>
       <div className="collection-heading">
